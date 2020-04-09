@@ -1,0 +1,10 @@
+<title>basic html structure</title>
+
+<head></heads>
+	<h1></h1>
+<body></body>
+	<table></table>
+		<tr></tr>
+			<th></th>
+				<ol></ol> or <ul></ul>
+					<li></li>
